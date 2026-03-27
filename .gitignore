@@ -1,0 +1,10 @@
+# Bỏ qua các file model AI nặng
+models/
+*.keras
+*.h5
+*.pt
+
+# Bỏ qua thư mục chứa dataset ảnh thịt bò
+Data/
+Data_Final/
+Data_Raw/
