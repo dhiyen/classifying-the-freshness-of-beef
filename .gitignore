@@ -4,6 +4,8 @@ models/
 *.h5
 *.pt
 
+saved_models/
+
 # Bỏ qua thư mục chứa dataset ảnh thịt bò
 Data/
 Data_Final/
